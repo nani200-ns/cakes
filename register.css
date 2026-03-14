@@ -1,0 +1,33 @@
+body{
+    background-image: url(1.jpg);
+    background-repeat: no-repeat;
+    background-size: 1200px 550px;
+}
+form{
+    border: solid;
+    border-color: antiquewhite;
+    width: 260px;
+    margin-left: 700px;
+    margin-top: 50px;
+    
+}
+h1{
+    color: antiquewhite;
+    text-align: center;
+}
+label{
+    color: antiquewhite;
+    font-size: 15px;
+    font-weight: bold;
+}
+input{
+    height: 15px;
+    width: 150px;
+    border-radius: 20px;
+}
+button{
+     height: 20px;
+    width: 80px;
+    background-color: chocolate;
+    border-radius: 10px;
+}

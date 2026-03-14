@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(1.jpg);
+    background-repeat: no-repeat;
+    background-size: 1200px 580px;
+}
+#text1{
+    color: rgb(246, 206, 155);
+    font-size: 50px;
+    margin-top: 50px;
+    margin-left: 530px;   
+}
+#text2{
+    color: antiquewhite;
+    font-size: 50px;
+    margin-left: 550px;
+}
+button{
+    height: 30px;
+    width: 100px;
+    margin-left: 550px;
+    background-color: rgb(247, 206, 206);
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 30px;
+}
+button:hover{
+    background-color: aquamarine;
+}
